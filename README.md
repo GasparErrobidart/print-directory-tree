@@ -2,12 +2,12 @@
 Debugging tool that recursively print a directory
 
 ```javascript
-const printDirectoryTree = require("./index")
+const printDirectoryTree = require("print-directory-tree")
 
 (async ()=>{
   await printDirectoryTree("./")
 })()
 ```
 
-##TODO
+## TODO
 - Make a prettier output

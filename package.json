@@ -1,6 +1,6 @@
 {
   "name": "print-directory-tree",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Debugging tool, print a visual representation of a directory.",
   "main": "index.js",
   "scripts": {
