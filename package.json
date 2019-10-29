@@ -1,0 +1,35 @@
+{
+  "name": "print-directory-tree",
+  "version": "1.0.0",
+  "description": "Debugging tool, print a visual representation of a directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "print-directory-tree": "./bin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GasparErrobidart/print-directory-tree.git"
+  },
+  "keywords": [
+    "debug",
+    "tool",
+    "library",
+    "print",
+    "tree",
+    "directory",
+    "npm",
+    "node",
+    "filesystem",
+    "fs",
+    "files"
+  ],
+  "author": "Gaspar G. Errobidart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GasparErrobidart/print-directory-tree/issues"
+  },
+  "homepage": "https://github.com/GasparErrobidart/print-directory-tree#readme"
+}
